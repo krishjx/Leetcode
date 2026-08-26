@@ -1,24 +1,29 @@
 class Solution {
 public:
+
+
+        void swap(int &a,int &b) {
+            int temp=a;
+            a=b;
+            b=temp;
+            
+        }
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int k=m+n,i=0,j=0,a=0;
-        vector <int> v(k);
-        for(a=0;a<k && i<m && j<n;a++){
+        int k=m+n-1,i=m-1,j=n-1;
+        for(k;0<k && 0<=i && 0<=j;k--){
             if(nums1[i]<nums2[j]){
-                v[a]=nums1[i];
-                i++;
+                swap(nums1[k],nums2[j]);
+                j--;
             }
             else{
-            v[a]=nums2[j];
-                j++;
+            swap(nums1[k],nums1[i]);
+                i--;
                 }
             }
-            for(a;a<k;a++){
-                if(i==m){v[a]=nums2[j];j++;}
-                else{v[a]=nums1[i];i++;}
+            for(k;0<=k;k--){
+                if(i<0){swap(nums1[k],nums2[j]);j--;}
+                else{
+                    swap(nums1[k],nums1[i]);i--;}
             }
-for(int i=0;i<k;i++){
-    nums1[i]=v[i];
-        }
     }
 };
