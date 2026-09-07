@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/krishjx/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishjx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishjx/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krishjx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/krishjx/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishjx/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishjx/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishjx/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishjx/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishjx/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
 | ------- |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishjx/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
