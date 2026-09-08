@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/krishjx/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/krishjx/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/krishjx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/krishjx/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishjx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishjx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishjx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
