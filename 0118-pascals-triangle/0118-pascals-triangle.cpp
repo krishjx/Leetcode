@@ -3,11 +3,9 @@ public:
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> v;
         int n = numRows;
-        for(int i=1;i<=n;i++){
-            vector<int>a(i);
-            v.push_back(a);
-        }
         for (int i = 0; i < n; i++) {
+            vector<int>a(i+1);
+            v.push_back(a);
             for (int j = 0; j < i + 1; j++) {
                 if (j == 0 || i == j) {
                     v[i][j] = 1;
