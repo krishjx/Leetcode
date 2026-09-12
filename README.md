@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/krishjx/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/krishjx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/krishjx/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/krishjx/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/krishjx/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishjx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/krishjx/Leetcode/tree/master/0118-pascals-triangle) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishjx/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/krishjx/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishjx/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/krishjx/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishjx/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/krishjx/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
