@@ -4,6 +4,17 @@ public:
         int n = 3;
         int r = mat.size(), c = mat[0].size(), flag = 8;
         while (n >= 0) {
+
+             // checking both are same or not
+            for (int i = 0; i < r; i++) {
+                flag = 8;
+                for (int j = 0; j < c; j++) {
+                    if (mat[i][j] != target[i][j]){flag = 0;}
+            }
+                if (flag == 0){break;}
+            }
+
+            
             // transposing and reversing
             for (int i = 0; i < r; i++) {
                 for (int j = i + 1; j < c; j++) {
@@ -24,14 +35,7 @@ public:
                 }
             }
 
-            // checking both are same or not
-            for (int i = 0; i < r; i++) {
-                flag = 8;
-                for (int j = 0; j < c; j++) {
-                    if (mat[i][j] != target[i][j]){flag = 0;}
-            }
-                if (flag == 0){break;}
-            }
+           
             if (flag == 8){
                 return 1;
             }
