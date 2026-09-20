@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/krishjx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishjx/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishjx/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/krishjx/Leetcode/tree/master/0031-next-permutation) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishjx/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/krishjx/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/krishjx/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/krishjx/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
