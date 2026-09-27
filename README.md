@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/krishjx/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/krishjx/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krishjx/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/krishjx/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishjx/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/krishjx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/krishjx/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/krishjx/Leetcode/tree/master/0242-valid-anagram) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krishjx/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
 | ------- |
