@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/krishjx/Leetcode/tree/master/0724-find-pivot-index) |
 | [0861-score-after-flipping-matrix](https://github.com/krishjx/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/krishjx/Leetcode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/krishjx/Leetcode/tree/master/0896-monotonic-array) |
 | [1470-shuffle-the-array](https://github.com/krishjx/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krishjx/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/krishjx/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
